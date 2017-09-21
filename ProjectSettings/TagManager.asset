@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Pick Up
   - Wall1
+  - Clear Text
+  - Bad
+  - Open3
+  - info3
   layers:
   - Default
   - TransparentFX
